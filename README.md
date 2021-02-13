@@ -18,6 +18,8 @@ Make sure:
   * npm install nodemon
 * Install Mongoose
   * npm install mongoose
+* Install body parser
+  * npm install body-parser
 
 # Usage
 To run the project, please use a command line the following:
