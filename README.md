@@ -22,4 +22,4 @@ Make sure:
 # Usage
 To run the project, please use a command line the following:
 * npm start
- * It will run the server at port 8080.
+  * It will run the server at port 8080.
