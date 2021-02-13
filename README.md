@@ -18,3 +18,8 @@ Make sure:
   * npm install nodemon
 * Install Mongoose
   * npm install mongoose
+
+# Usage
+To run the project, please use a command line the following:
+* npm start
+ * It will run the server at port 8080.
