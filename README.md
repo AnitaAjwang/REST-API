@@ -21,6 +21,12 @@ Make sure:
 * Install body parser
   * npm install body-parser
 
+# .env File
+
+* Create a .env file in your root folder
+* In it create a variable called DB_CONNECTION
+  * DB_CONNECTION = mongodb+srv://user:<password>@cluster0......./<dbname>?retryWrites=true&w=majority
+
 # Usage
 To run the project, please use a command line the following:
 * npm start
