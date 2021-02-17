@@ -28,6 +28,6 @@ Make sure:
   * DB_CONNECTION = mongodb+srv://user:<password>@cluster0......./<dbname>?retryWrites=true&w=majority
 
 # Usage
-To run the project, please use a command line the following:
+To run the project, please use the following command:
 * npm start
   * It will run the server at port 8080.
